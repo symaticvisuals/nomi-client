@@ -1,33 +1,38 @@
 .details h1 {
-  font-size: 3rem;
+	font-size: 3rem;
 }
 .details p {
-  font-size: 1.3rem;
-  color: grey;
-  margin-top: -1rem;
+	font-size: 1.3rem;
+	color: grey;
+	margin-top: -1rem;
 }
 
 .authentication input,
 .authentication button {
-  padding: 1rem;
-  border-radius: 5px;
-  margin-top: 1rem;
-  border: none;
-  outline: none;
+	padding: 1rem;
+	border-radius: 5px;
+	margin-top: 1rem;
+	border: none;
+	outline: none;
 }
 
 .authentication input {
-  width: 30rem;
-  background-color: rgb(218, 218, 218);
-  color: black;
+	width: 30rem;
+	background-color: rgb(218, 218, 218);
+	color: black;
 }
 
 .submit-button {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 32rem;
-  font-size: 1rem;
-  background-color: #ff9b42;
-  margin-bottom: 2rem;
+	display: flex;
+	font-family: "Poppins";
+	justify-content: space-between;
+	align-items: center;
+	width: 32rem;
+	font-size: 0.9rem;
+	background-color: #7090e8;
+	margin-bottom: 2rem;
+}
+.login-main {
+	display: flex;
+	align-items: center;
 }

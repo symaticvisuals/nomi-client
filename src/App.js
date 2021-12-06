@@ -4,13 +4,13 @@ import Login from "./components/pages/login/Login";
 import Footer from "./components/elements/footer/Footer";
 
 function App() {
-  return (
-    <div className="App">
-      <Header />
-      <Login />
-      <Footer />
-    </div>
-  );
+	return (
+		<div className='App'>
+			<Header />
+			<Login />
+			<Footer />
+		</div>
+	);
 }
 
 export default App;
